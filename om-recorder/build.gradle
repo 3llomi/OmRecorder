@@ -69,7 +69,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.kailashdabhi'
-                artifactId = 'om-recorder'
+                artifactId = 'omrecorder'
                 version = '1.0'
             }
         }
